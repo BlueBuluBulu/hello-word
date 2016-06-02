@@ -1,2 +1,5 @@
 # hello-word
-this is my first respository
+
+hi,bulebulubulu!
+
+my name is qinglyq , I want to be good friend with you . and you ?
